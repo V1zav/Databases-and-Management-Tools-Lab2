@@ -1,0 +1,6 @@
+[Database]
+host: localhost
+port: 5432
+user: caricardo
+password: 10057565
+database: caricardo
